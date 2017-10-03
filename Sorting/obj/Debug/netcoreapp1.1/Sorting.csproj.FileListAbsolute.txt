@@ -1,0 +1,9 @@
+e:\Code\interviewfaq\Sorting\bin\Debug\netcoreapp1.1\Sorting.deps.json
+e:\Code\interviewfaq\Sorting\bin\Debug\netcoreapp1.1\Sorting.runtimeconfig.json
+e:\Code\interviewfaq\Sorting\bin\Debug\netcoreapp1.1\Sorting.runtimeconfig.dev.json
+e:\Code\interviewfaq\Sorting\bin\Debug\netcoreapp1.1\Sorting.dll
+e:\Code\interviewfaq\Sorting\bin\Debug\netcoreapp1.1\Sorting.pdb
+e:\Code\interviewfaq\Sorting\obj\Debug\netcoreapp1.1\Sorting.csproj.CoreCompileInputs.cache
+e:\Code\interviewfaq\Sorting\obj\Debug\netcoreapp1.1\Sorting.AssemblyInfo.cs
+e:\Code\interviewfaq\Sorting\obj\Debug\netcoreapp1.1\Sorting.dll
+e:\Code\interviewfaq\Sorting\obj\Debug\netcoreapp1.1\Sorting.pdb
