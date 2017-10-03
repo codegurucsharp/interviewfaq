@@ -1,0 +1,9 @@
+e:\Code\interviewfaq\bin\Debug\netcoreapp1.1\interviewfaq.deps.json
+e:\Code\interviewfaq\bin\Debug\netcoreapp1.1\interviewfaq.runtimeconfig.json
+e:\Code\interviewfaq\bin\Debug\netcoreapp1.1\interviewfaq.runtimeconfig.dev.json
+e:\Code\interviewfaq\bin\Debug\netcoreapp1.1\interviewfaq.dll
+e:\Code\interviewfaq\bin\Debug\netcoreapp1.1\interviewfaq.pdb
+e:\Code\interviewfaq\obj\Debug\netcoreapp1.1\interviewfaq.csproj.CoreCompileInputs.cache
+e:\Code\interviewfaq\obj\Debug\netcoreapp1.1\interviewfaq.AssemblyInfo.cs
+e:\Code\interviewfaq\obj\Debug\netcoreapp1.1\interviewfaq.dll
+e:\Code\interviewfaq\obj\Debug\netcoreapp1.1\interviewfaq.pdb
