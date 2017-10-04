@@ -1,0 +1,9 @@
+e:\Code\interviewfaq\Arrays\bin\Debug\netcoreapp1.1\Arrays.deps.json
+e:\Code\interviewfaq\Arrays\bin\Debug\netcoreapp1.1\Arrays.runtimeconfig.json
+e:\Code\interviewfaq\Arrays\bin\Debug\netcoreapp1.1\Arrays.runtimeconfig.dev.json
+e:\Code\interviewfaq\Arrays\obj\Debug\netcoreapp1.1\Arrays.csproj.CoreCompileInputs.cache
+e:\Code\interviewfaq\Arrays\obj\Debug\netcoreapp1.1\Arrays.AssemblyInfo.cs
+e:\Code\interviewfaq\Arrays\bin\Debug\netcoreapp1.1\Arrays.dll
+e:\Code\interviewfaq\Arrays\bin\Debug\netcoreapp1.1\Arrays.pdb
+e:\Code\interviewfaq\Arrays\obj\Debug\netcoreapp1.1\Arrays.dll
+e:\Code\interviewfaq\Arrays\obj\Debug\netcoreapp1.1\Arrays.pdb
