@@ -15,19 +15,18 @@ namespace Trees
             //     \
             //      2
 
-            Node node2 = new Node { Data=2 };
-            Node node12 = new Node{Data=12};
-            Node node33 = new Node { Data=33};
+            Node node2 = new Node { Data = 2 };
+            Node node12 = new Node { Data = 12 };
+            Node node33 = new Node { Data = 33 };
 
-            Node node5 = new Node{Data = 5, Right = node2};
-            Node node39 = new Node{Data = 39, Left=node33};
-            Node node10 = new Node{Data = 10, Left = node5, Right = node12};
-            
-            Node root = new Node{ Data = 1, Left = node10 , Right = node39};
+            Node node5 = new Node { Data = 5, Right = node2 };
+            Node node39 = new Node { Data = 39, Left = node33 };
+            Node node10 = new Node { Data = 10, Left = node5, Right = node12 };
+
+            Node root = new Node { Data = 1, Left = node10, Right = node39 };
 
             //Console.WriteLine("Height of tree using recursion: {0}", GetHeightRecursive(root));
-            //PrintReverseLevelOrderTraversalIterative(root);
-            PrintReverseLevelOrderTraversalIterative2(root);
+            PrintReverseLevelOrderTraversalIterative(root);
             // PrintReverseLevelOrderRecursive(root);
         }
 
@@ -37,19 +36,19 @@ namespace Trees
             queue.Enqueue(node);
             Stack<Node> stack = new Stack<Node>();
 
-            while(true)
+            while (true)
             {
-                if(queue.Count==0) break;
+                if (queue.Count == 0) break;
                 Node currentNode = queue.Dequeue();
                 // Notice instead of printing we are just keeping in a queue, 
                 // this queue is then just emptied in the end.
                 stack.Push(currentNode);
-                if(currentNode.Left!=null) queue.Enqueue(currentNode.Left);
-                if(currentNode.Right!=null) queue.Enqueue(currentNode.Right);
+                if (currentNode.Left != null) queue.Enqueue(currentNode.Left);
+                if (currentNode.Right != null) queue.Enqueue(currentNode.Right);
             }
 
             // empty the queue and print out everything
-            while(stack.Count>0)
+            while (stack.Count > 0)
             {
                 System.Console.WriteLine(stack.Pop().Data);
             }
@@ -60,23 +59,24 @@ namespace Trees
             HeightOfTree h = new HeightOfTree();
             int height = h.GetHeightIterative(node);
 
-            for (int i = height; i >0; i--)
+            for (int i = height; i > 0; i--)
             {
                 Console.Write(">");
-                PrintNodesAtLevel(node,i);
+                PrintNodesAtLevel(node, i);
                 Console.WriteLine();
             }
         }
 
         public void PrintNodesAtLevel(Node n, int i)
         {
-            if(n==null || i<1) return;
+            if (n == null || i < 1) return;
 
-            if(i == 1) System.Console.Write(n.Data+" ");
+            if (i == 1) System.Console.Write(n.Data + " ");
             else
-                {
-                    PrintNodesAtLevel(n.Right,i-1);
-                    PrintNodesAtLevel(n.Left,i-1);
-                }        }
+            {
+                PrintNodesAtLevel(n.Right, i - 1);
+                PrintNodesAtLevel(n.Left, i - 1);
+            }
+        }
     }
 }

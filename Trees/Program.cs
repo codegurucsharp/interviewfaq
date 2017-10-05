@@ -11,9 +11,12 @@ namespace Trees
 
             // LevelOrderTraversal levelOrder = new LevelOrderTraversal();
             // levelOrder.ExecuteLevelOrderTraversal();
-            
-            ReverseLevelOrderTraversal revLevelOrder = new ReverseLevelOrderTraversal();
-            revLevelOrder.ExecuteReverseLevelOrderTraversal();
+
+            // ReverseLevelOrderTraversal revLevelOrder = new ReverseLevelOrderTraversal();
+            // revLevelOrder.ExecuteReverseLevelOrderTraversal();
+
+            LevelOrderInSpiralForm levelOrderInSpiral = new LevelOrderInSpiralForm();
+            levelOrderInSpiral.ExecuteLevelOrderInSpiralForm();
             
             Console.ReadLine();
         }
