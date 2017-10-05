@@ -1,0 +1,9 @@
+c:\Code\CODEGURUCS\interviewfaq\Trees\bin\Debug\netcoreapp1.1\Trees.deps.json
+c:\Code\CODEGURUCS\interviewfaq\Trees\bin\Debug\netcoreapp1.1\Trees.runtimeconfig.json
+c:\Code\CODEGURUCS\interviewfaq\Trees\bin\Debug\netcoreapp1.1\Trees.runtimeconfig.dev.json
+c:\Code\CODEGURUCS\interviewfaq\Trees\bin\Debug\netcoreapp1.1\Trees.dll
+c:\Code\CODEGURUCS\interviewfaq\Trees\bin\Debug\netcoreapp1.1\Trees.pdb
+c:\Code\CODEGURUCS\interviewfaq\Trees\obj\Debug\netcoreapp1.1\Trees.csproj.CoreCompileInputs.cache
+c:\Code\CODEGURUCS\interviewfaq\Trees\obj\Debug\netcoreapp1.1\Trees.AssemblyInfo.cs
+c:\Code\CODEGURUCS\interviewfaq\Trees\obj\Debug\netcoreapp1.1\Trees.dll
+c:\Code\CODEGURUCS\interviewfaq\Trees\obj\Debug\netcoreapp1.1\Trees.pdb

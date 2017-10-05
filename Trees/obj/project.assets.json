@@ -7042,11 +7042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Code\\CODEGURUCS\\interviewfaq\\Sorting\\Sorting.csproj",
-      "projectName": "Sorting",
-      "projectPath": "c:\\Code\\CODEGURUCS\\interviewfaq\\Sorting\\Sorting.csproj",
+      "projectUniqueName": "C:\\Code\\CODEGURUCS\\interviewfaq\\Trees\\Trees.csproj",
+      "projectName": "Trees",
+      "projectPath": "C:\\Code\\CODEGURUCS\\interviewfaq\\Trees\\Trees.csproj",
       "packagesPath": "C:\\Users\\vibhorj\\.nuget\\packages\\",
-      "outputPath": "c:\\Code\\CODEGURUCS\\interviewfaq\\Sorting\\obj\\",
+      "outputPath": "C:\\Code\\CODEGURUCS\\interviewfaq\\Trees\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vibhorj\\AppData\\Roaming\\NuGet\\NuGet.Config",
