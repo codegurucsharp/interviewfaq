@@ -1,0 +1,9 @@
+c:\Code\CODEGURUCS\interviewfaq\Backtracking\bin\Debug\netcoreapp1.1\Backtracking.deps.json
+c:\Code\CODEGURUCS\interviewfaq\Backtracking\bin\Debug\netcoreapp1.1\Backtracking.runtimeconfig.json
+c:\Code\CODEGURUCS\interviewfaq\Backtracking\bin\Debug\netcoreapp1.1\Backtracking.runtimeconfig.dev.json
+c:\Code\CODEGURUCS\interviewfaq\Backtracking\bin\Debug\netcoreapp1.1\Backtracking.dll
+c:\Code\CODEGURUCS\interviewfaq\Backtracking\bin\Debug\netcoreapp1.1\Backtracking.pdb
+c:\Code\CODEGURUCS\interviewfaq\Backtracking\obj\Debug\netcoreapp1.1\Backtracking.csproj.CoreCompileInputs.cache
+c:\Code\CODEGURUCS\interviewfaq\Backtracking\obj\Debug\netcoreapp1.1\Backtracking.AssemblyInfo.cs
+c:\Code\CODEGURUCS\interviewfaq\Backtracking\obj\Debug\netcoreapp1.1\Backtracking.dll
+c:\Code\CODEGURUCS\interviewfaq\Backtracking\obj\Debug\netcoreapp1.1\Backtracking.pdb
