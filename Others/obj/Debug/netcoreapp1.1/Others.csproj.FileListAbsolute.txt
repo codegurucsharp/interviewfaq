@@ -1,0 +1,9 @@
+c:\Code\CODEGURUCS\interviewfaq\Others\bin\Debug\netcoreapp1.1\Others.deps.json
+c:\Code\CODEGURUCS\interviewfaq\Others\bin\Debug\netcoreapp1.1\Others.runtimeconfig.json
+c:\Code\CODEGURUCS\interviewfaq\Others\bin\Debug\netcoreapp1.1\Others.runtimeconfig.dev.json
+c:\Code\CODEGURUCS\interviewfaq\Others\bin\Debug\netcoreapp1.1\Others.dll
+c:\Code\CODEGURUCS\interviewfaq\Others\bin\Debug\netcoreapp1.1\Others.pdb
+c:\Code\CODEGURUCS\interviewfaq\Others\obj\Debug\netcoreapp1.1\Others.csproj.CoreCompileInputs.cache
+c:\Code\CODEGURUCS\interviewfaq\Others\obj\Debug\netcoreapp1.1\Others.AssemblyInfo.cs
+c:\Code\CODEGURUCS\interviewfaq\Others\obj\Debug\netcoreapp1.1\Others.dll
+c:\Code\CODEGURUCS\interviewfaq\Others\obj\Debug\netcoreapp1.1\Others.pdb
